@@ -1,6 +1,6 @@
 # 🪐 Vibecoded IDE
 
-**Vibecoded IDE** is a high-performance, aesthetically-driven code editor built on the Tauri framework. It blends a vintage "vibey" aesthetic with modern, robust developer tools including a customized Monaco editor, integrated PTY terminal, and a secure Rust backend.
+**Vibecoded IDE** is a high-performance, aesthetically-driven code editor built on the Tauri framework. It blends a vintage "vibey" aesthetic with modern, robust developer tools including a customized Monaco editor, integrated PTY terminal, and a secure Rust backend. **Vibecoded as a test project.**
 
 ![Version](https://img.shields.io/badge/version-0.1.0-amber)
 ![License](https://img.shields.io/badge/license-MIT-blue)
